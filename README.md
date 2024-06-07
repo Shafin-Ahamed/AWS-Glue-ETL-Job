@@ -11,3 +11,6 @@ This repository represents an ETL job that I put together in AWS Glue to convert
 7. Check ETL jobs in AWS Glue to see if job ran successfully
 8. Check output bucket for output file. Take file and decompress it since it was compressed with gzip.
 9. Success! JSON file is created!
+
+
+I've also attached my original csv file, and the outputted JSON format of the file.
