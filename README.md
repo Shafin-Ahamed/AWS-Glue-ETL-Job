@@ -1,4 +1,4 @@
-# AWS-Glue-ETL-Job
+# File Conversion Job
 This repository represents an ETL job that I put together in AWS Glue to convert CSV files to JSON files
 
 1. Used S3 buckets for both an input (CSV files) and output (JSON files)
